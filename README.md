@@ -35,8 +35,8 @@
 ####  Male having high cholesterol.
 #### 1.23%  person is in underweight.
 #### 27.89% person is in normal BMI.
-####  36.95 person is in overweight.
-####  34.37 a person is smoker but they do exercise
+####  36.95% person is in overweight.
+####  34.37% a person is smoker but they do exercise
 
 ## Positively Correlated Features 
  #### 1.Stroke & Diabetes  
