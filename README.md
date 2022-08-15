@@ -9,7 +9,7 @@
 
 
 # Methodology: 
-##Data collection: 
+## Data collection: 
 #### Data is collected from https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset 
 
 ## Data Cleaning: 
