@@ -1,7 +1,7 @@
 # Heart-Disease
 
 # Aim:
-#### To analyse heart disease using supervised machine learning technique mainly Random forest algorithm so that the understand  Whether a person is suffering from heart disease or not
+#### To analyse heart disease using supervised machine learning technique mainly LogisticRegression algorithm so that the understand  Whether a person is suffering from heart disease or not
 
 
 # objective:
