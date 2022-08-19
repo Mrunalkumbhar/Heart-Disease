@@ -5,7 +5,7 @@
 
 
 # objective:
-#### Study the person do not have/have not had heart disease 
+#### Study the person do have/have not had heart disease 
 
 
 # Methodology: 
